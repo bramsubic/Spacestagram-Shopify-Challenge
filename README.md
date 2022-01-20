@@ -4,7 +4,9 @@
 
 ### Screenshots
 ![screenshot5](https://i.imgur.com/8lyrVf3.png)
-![screenshot5](https://i.imgur.com/jUYJhp6.png)
+
+#### Hover over image to see title and description
+![screenshot5](https://i.imgur.com/jUYJhp6.png) 
 
 ### Link to Test
 https://codesandbox.io/s/github/bramsubic/spacestagram
