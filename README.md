@@ -2,6 +2,10 @@
 - Spacestagram is an app to help share photos from NASA's image APIs - Astronomy Picture of the Day
 - Each image lists a title and a description and can be liked and unliked by a user
 
+### Screenshots
+![screenshot5](https://i.imgur.com/8lyrVf3.png)
+![screenshot5](https://i.imgur.com/jUYJhp6.png)
+
 ### Link to Test
 https://codesandbox.io/s/github/bramsubic/spacestagram
 
